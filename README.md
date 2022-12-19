@@ -1,16 +1,15 @@
-### Hi there 👋
+### Привет 👋 меня зовут Лев
 
-<!--
-**levgross/levgross** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Мои проекты на Java:
 
-Here are some ideas to get you started:
++ [**Dream Job**](https://github.com/levgross/job4j_dreamjob) Java, Maven, Spring boot, PostgreSQL, Liquibase, Thymeleaf, Bootstrap, Junit , AssertJ
++ [**Cinema**](https://github.com/levgross/job4j_cinema) Java, Maven, Spring boot, PostgreSQL, Liquibase, Log4j, AssertJ,
+JUnit 5, Mockito, H2
++ [**Car Accident**](https://github.com/levgross/job4j_accidents) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
++ [**Todo List**](https://github.com/levgross/job4j_todo) Java, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, Maven, Tomcat
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Github stats](https://github-readme-stats.vercel.app/api?username=levgross&hide=stars,prs,issues,contribs)
+-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levgross&layout=compact)](https://github.com/levgross/github-readme-stats)
+[![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/levgross)&nbsp;&nbsp;
+[![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:levgross@gmail.com)&nbsp;&nbsp;
