@@ -11,5 +11,6 @@ JUnit 5, Mockito, H2
 ![Github stats](https://github-readme-stats.vercel.app/api?username=levgross&hide=stars,prs,issues,contribs)
 -
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=levgross&layout=compact)](https://github.com/levgross/github-readme-stats)
+-
 [![alt-text](https://img.shields.io/badge/-telegram-grey?style=flat&logo=telegram&logoColor=white)](https://t.me/levgross)&nbsp;&nbsp;
 [![alt-text](https://img.shields.io/badge/@%20email-005FED?style=flat&logo=mail&logoColor=white)](mailto:levgross@gmail.com)&nbsp;&nbsp;
