@@ -2,7 +2,7 @@
 
 Мои проекты на Java:
 + [**URL Shortcut**](https://github.com/levgross/job4j_url_shortcut) Java, Maven, Spring boot, REST, PostgreSQL, Liquibase, JWT, Lombok, Log4j, JavaDoc
-+ [**Dream Job**](https://github.com/levgross/job4j_dreamjob) Java, Maven, Spring boot, PostgreSQL, Liquibase, Thymeleaf, Bootstrap, Junit , AssertJ
++ [**Dream Job**](https://github.com/levgross/job4j_dreamjob) Java, Maven, Spring boot, PostgreSQL, Liquibase, Thymeleaf, Bootstrap, JUnit , AssertJ
 + [**Cinema**](https://github.com/levgross/job4j_cinema) Java, Maven, Spring boot, PostgreSQL, Liquibase, Log4j, AssertJ,
 JUnit 5, Mockito, H2
 + [**Car Accident**](https://github.com/levgross/job4j_accidents) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
