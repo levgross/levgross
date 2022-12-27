@@ -6,6 +6,7 @@
 + [**Cinema**](https://github.com/levgross/job4j_cinema) Java, Maven, Spring boot, PostgreSQL, Liquibase, Log4j, AssertJ,
 JUnit 5, Mockito, H2
 + [**Car Accident**](https://github.com/levgross/job4j_accidents) Spring (MVC, ORM, Data, Security), JSP, JSTL, JDBC, Hibernate, Maven, Tomcat
++ [**Pooh JMS Project**](https://github.com/levgross/job4j_pooh) Java, Maven, AssertJ, JUnit 5
 + [**Todo List**](https://github.com/levgross/job4j_todo) Java, Servlets, PostgreSQL, Hibernate, Liquibase, JUnit, Mockito, Maven, Tomcat
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=levgross&hide=stars,prs,issues,contribs)
