@@ -1,7 +1,7 @@
 ### Привет 👋 меня зовут Лев
 
 Мои проекты на Java:
-+ [**Fastfood Reataurant**](https://github.com/levgross/job4j_fast_food) Microservices, Java, PostgreSQL, Spring Framework, Kafka, Liquibase, Maven
++ [**Fastfood Restaurant**](https://github.com/levgross/job4j_fast_food) Microservices, Java, PostgreSQL, Spring Framework, Kafka, Liquibase, Maven
 + [**URL Shortcut**](https://github.com/levgross/job4j_url_shortcut) Java, Maven, Spring boot, REST, PostgreSQL, Docker, Liquibase, JWT, Lombok, Log4j, JavaDoc
 + [**Dream Job**](https://github.com/levgross/job4j_dreamjob) Java, Maven, Spring boot, PostgreSQL, Liquibase, Thymeleaf, Bootstrap, JUnit , AssertJ
 + [**Cinema**](https://github.com/levgross/job4j_cinema) Java, Maven, Spring boot, PostgreSQL, Liquibase, Log4j, AssertJ,
